@@ -2,10 +2,10 @@
 
 # 👩‍💻 Olá, eu sou Felipe Gralha!
 
-### Desenvolvedora de Software | Técnica em Desenvolvimento de Sistemas
+### Desenvolvedor de Software | Técnico em Desenvolvimento de Sistemas
 
-🎓 *Técnica em Desenvolvimento de Sistemas*  
-📚 Graduanda em *Análise e Desenvolvimento de Sistemas*  
+🎓 *Técnico em Desenvolvimento de Sistemas*  
+📚 Graduando em *Análise e Desenvolvimento de Sistemas*  
 💻 Amante por tecnologia e desenvolvimento  
 🚀 Em busca de novas experiências e oportunidades na área
 
@@ -88,13 +88,7 @@ Tenho interesse em ambientes onde eu possa aprender, colaborar com outras pessoa
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/suellen-sagas/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Suellen%20Sagas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
-<a href="https://www.instagram.com/susu_sagas/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@susu__sagas-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 
 </div>
 
@@ -102,7 +96,7 @@ Tenho interesse em ambientes onde eu possa aprender, colaborar com outras pessoa
 
 <div align="center">
 
-### 💜 Transformando aprendizado em código.
+###  Transformando aprendizado em código.
 
 💻 Tecnologia • 🚀 Evolução • 📚 Aprendizado
 
