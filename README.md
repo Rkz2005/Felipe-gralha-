@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👩‍💻 Olá, eu sou Felipe Gralha!
+#  Olá, eu sou Felipe Gralha!
 
 ### Desenvolvedor de Software | Técnico em Desenvolvimento de Sistemas
 
